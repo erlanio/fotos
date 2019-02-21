@@ -1,0 +1,34 @@
+[03-Aug-2017 06:24:57 America/Chicago] PHP Fatal error:  Call to undefined method CI_Session::session_destroy() in /home/edson429/public_html/news/application/controllers/admin/Login.php on line 45
+[25-Aug-2017 11:58:21 America/Chicago] PHP Parse error:  syntax error, unexpected 'assets' (T_STRING) in /home/auror742/public_html/news/application/views/noticia.php on line 22
+[25-Aug-2017 11:58:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'assets' (T_STRING) in /home/auror742/public_html/news/application/views/noticia.php on line 22
+[25-Aug-2017 11:58:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'assets' (T_STRING) in /home/auror742/public_html/news/application/views/noticia.php on line 22
+[25-Aug-2017 11:58:53 America/Chicago] PHP Parse error:  syntax error, unexpected 'assets' (T_STRING) in /home/auror742/public_html/news/application/views/noticia.php on line 22
+[25-Aug-2017 11:58:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'assets' (T_STRING) in /home/auror742/public_html/news/application/views/noticia.php on line 22
+[25-Aug-2017 13:32:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'A' (T_STRING) in /home/auror742/public_html/news/application/config/config.php on line 161
+[25-Aug-2017 13:32:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'A' (T_STRING) in /home/auror742/public_html/news/application/config/config.php on line 161
+[25-Aug-2017 13:32:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'A' (T_STRING) in /home/auror742/public_html/news/application/config/config.php on line 161
+[25-Aug-2017 13:32:59 America/Chicago] PHP Parse error:  syntax error, unexpected 'A' (T_STRING) in /home/auror742/public_html/news/application/config/config.php on line 161
+[25-Aug-2017 13:33:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'A' (T_STRING) in /home/auror742/public_html/news/application/config/config.php on line 161
+[25-Aug-2017 13:33:14 America/Chicago] PHP Parse error:  syntax error, unexpected 'A' (T_STRING) in /home/auror742/public_html/news/application/config/config.php on line 161
+[25-Aug-2017 13:33:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'A' (T_STRING) in /home/auror742/public_html/news/application/config/config.php on line 161
+[25-Aug-2017 13:33:15 America/Chicago] PHP Parse error:  syntax error, unexpected 'A' (T_STRING) in /home/auror742/public_html/news/application/config/config.php on line 161
+[25-Aug-2017 13:33:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'A' (T_STRING) in /home/auror742/public_html/news/application/config/config.php on line 161
+[25-Aug-2017 13:33:19 America/Chicago] PHP Parse error:  syntax error, unexpected 'A' (T_STRING) in /home/auror742/public_html/news/application/config/config.php on line 161
+[25-Aug-2017 13:33:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'A' (T_STRING) in /home/auror742/public_html/news/application/config/config.php on line 161
+[25-Aug-2017 13:33:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'A' (T_STRING) in /home/auror742/public_html/news/application/config/config.php on line 161
+[25-Aug-2017 13:33:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'A' (T_STRING) in /home/auror742/public_html/news/application/config/config.php on line 161
+[25-Aug-2017 13:33:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'A' (T_STRING) in /home/auror742/public_html/news/application/config/config.php on line 161
+[25-Aug-2017 13:33:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'A' (T_STRING) in /home/auror742/public_html/news/application/config/config.php on line 161
+[25-Aug-2017 13:33:35 America/Chicago] PHP Parse error:  syntax error, unexpected 'A' (T_STRING) in /home/auror742/public_html/news/application/config/config.php on line 161
+[25-Aug-2017 13:33:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'A' (T_STRING) in /home/auror742/public_html/news/application/config/config.php on line 161
+[25-Aug-2017 13:33:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'A' (T_STRING) in /home/auror742/public_html/news/application/config/config.php on line 161
+[09-Sep-2017 11:01:49 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/auror742/public_html/news/application/views/header.php on line 24
+[09-Sep-2017 13:01:51 America/Sao_Paulo] PHP Parse error:  syntax error, unexpected '<' in /home/auror742/public_html/news/application/views/header.php on line 24
+[09-Sep-2017 11:01:52 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/auror742/public_html/news/application/views/header.php on line 24
+[09-Sep-2017 11:02:03 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/auror742/public_html/news/application/views/header.php on line 24
+[09-Sep-2017 11:02:04 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/auror742/public_html/news/application/views/header.php on line 24
+[09-Sep-2017 11:02:05 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/auror742/public_html/news/application/views/header.php on line 24
+[09-Sep-2017 11:02:14 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/auror742/public_html/news/application/views/header.php on line 24
+[09-Sep-2017 11:02:19 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/auror742/public_html/news/application/views/header.php on line 24
+[09-Sep-2017 11:02:19 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/auror742/public_html/news/application/views/header.php on line 24
+[09-Sep-2017 11:02:23 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/auror742/public_html/news/application/views/header.php on line 24

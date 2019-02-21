@@ -1,0 +1,23 @@
+p{
+    font-size: 10px;
+    color: #fff;   
+    position: absolute;
+    margin-top: 170px;
+    text-align: center;
+    left: 43.5%;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+.cpf{
+     font-size: 10px;
+    color: #fff;   
+    position: absolute;
+    margin-top: 203px;
+    text-align: center;
+    left: 43.5%;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{font-family:Arial;background:url(/img/back/pagina_pdf-18px-A4.jpg) no-repeat;
+background-image-resolution:300dpi;background-image-resize:6;}
